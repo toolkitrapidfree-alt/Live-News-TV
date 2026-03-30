@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-03-30",
+  "channels": [
+    {
+      "name": "France 24 English",
+      "type": "youtube",
+      "url": "https://www.youtube.com/@FRANCE24English/live"
+    },
+    {
+      "name": "France 24 Arabic",
+      "type": "youtube",
+      "url": "https://www.youtube.com/@France24_ar/live"
+    },
+    {
+      "name": "Al Jazeera English",
+      "type": "youtube",
+      "url": "https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live"
+    },
+    {
+      "name": "Al Jazeera Arabic",
+      "type": "youtube",
+      "url": "https://www.youtube.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw/live"
+    },
+    {
+      "name": "Sky News Arabia",
+      "type": "youtube",
+      "url": "https://www.youtube.com/@SkyNewsArabia/live"
+    }
+  ]
+}
